@@ -1,0 +1,5 @@
+project: jacob-clemente/SVT-VP9
+target: SvtVp9EncApp
+
+cmds:
+  - cmd: /SvtVp9EncApp -i @@
